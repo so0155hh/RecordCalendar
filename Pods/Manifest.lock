@@ -1,0 +1,30 @@
+PODS:
+  - CalculateCalendarLogic (0.3.0)
+  - FSCalendar (2.8.1)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+
+DEPENDENCIES:
+  - CalculateCalendarLogic
+  - FSCalendar
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - CalculateCalendarLogic
+    - FSCalendar
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  CalculateCalendarLogic: cd5b2c706a8628bb924c5ee9d05c4f61bdbaf390
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+
+PODFILE CHECKSUM: 8b055546cfd5acf021ea1ee968e387ac7f76b9aa
+
+COCOAPODS: 1.8.4
